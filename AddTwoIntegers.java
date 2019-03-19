@@ -5,8 +5,8 @@ public class AddTwoIntegers {
         int first = 10;
         int nd = 20;
 
-        int s = first + nd;
+        int sum = first + nd;
 
-        System.out.println("The sum is: " + s);
+        System.out.println("The sum is: " + sum);
     }
 }
